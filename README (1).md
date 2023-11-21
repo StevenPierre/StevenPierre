@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven</h1>
-<h3 align="center">Data & Analytics consultant with business acumen and technical expertise.</h3>
+<h3 align="center">Data & Analytics Consultant with business acumen and technical expertise.</h3>
 
 - 🔭 I’m currently working on **developing a convolutional neural network for predicting wildfires in Alaska.**
 
