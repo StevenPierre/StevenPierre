@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **data quality foundations for analytics and AI.**
 
+- :page_facing_up: Link to my resume: [https://github.com/StevenPierre/StevenPierre/blob/main/StevenDestineResume.pdf]
+
 - 📫 How to reach me **stevendestine@gmail.com**
 
 - ⚡ Fun fact **I am a real estate investor.**
