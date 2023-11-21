@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **data quality foundations for analytics and AI.**
 
-- :page_facing_up: Link to my resume: [https://github.com/StevenPierre/StevenPierre/blob/main/StevenDestineResume.pdf]
+- :page_facing_up: Link to my resume: https://github.com/StevenPierre/StevenPierre/blob/main/StevenDestineResume.pdf
 
 - 📫 How to reach me **stevendestine@gmail.com**
 
